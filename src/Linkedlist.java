@@ -110,6 +110,7 @@ public class Linkedlist {
 		li.push(20);
 		li.push(3);
 		li.push(2);
+		li.push(3);
 
 		// Apply merge Sort
 		li.head = li.mergeSort(li.head);
